@@ -28,7 +28,7 @@
     "monaco-editor": "^0.19.3",
     "node-fetch": "^2.6.0",
     "react": "^16.13.1",
-    "rollup": "^1.31.0",
+    "rollup": "^2.75.4",
     "serve": "^11.3.0",
     "typescript": " 3.8.0-beta"
   },
